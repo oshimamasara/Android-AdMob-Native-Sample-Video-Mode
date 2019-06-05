@@ -17,10 +17,8 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:textSize="50sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:layout_margin="30sp"
+        />
 
     <!--  This is your template view -->
     <com.google.android.ads.nativetemplates.TemplateView
